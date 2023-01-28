@@ -1,0 +1,17 @@
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\bin\Debug\net6.0\RepositoryPattern.EF.deps.json
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\bin\Debug\net6.0\RepositoryPattern.EF.runtimeconfig.json
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\bin\Debug\net6.0\RepositoryPattern.EF.dll
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\bin\Debug\net6.0\RepositoryPattern.EF.pdb
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\bin\Debug\net6.0\RepositoryPattern.Core.dll
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\bin\Debug\net6.0\RepositoryPattern.Core.pdb
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\obj\Debug\net6.0\RepositoryPattern.EF.csproj.AssemblyReference.cache
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\obj\Debug\net6.0\RepositoryPattern.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\obj\Debug\net6.0\RepositoryPattern.EF.AssemblyInfoInputs.cache
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\obj\Debug\net6.0\RepositoryPattern.EF.AssemblyInfo.cs
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\obj\Debug\net6.0\RepositoryPattern.EF.csproj.CoreCompileInputs.cache
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\obj\Debug\net6.0\RepositoryPattern.EF.csproj.CopyComplete
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\obj\Debug\net6.0\RepositoryPattern.EF.dll
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\obj\Debug\net6.0\refint\RepositoryPattern.EF.dll
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\obj\Debug\net6.0\RepositoryPattern.EF.pdb
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\obj\Debug\net6.0\RepositoryPattern.EF.genruntimeconfig.cache
+D:\BookStoreWithReposityPattern\ReposityPattern.EF\obj\Debug\net6.0\ref\RepositoryPattern.EF.dll

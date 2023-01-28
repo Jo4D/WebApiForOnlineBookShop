@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BookStoreWithRepositoryPattern.Api.props" />
+</Project>

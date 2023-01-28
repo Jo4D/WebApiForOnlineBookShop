@@ -1,0 +1,12 @@
+D:\BookStoreWithReposityPattern\ReposityPattern.Core\bin\Debug\net6.0\RepositoryPattern.Core.deps.json
+D:\BookStoreWithReposityPattern\ReposityPattern.Core\bin\Debug\net6.0\RepositoryPattern.Core.dll
+D:\BookStoreWithReposityPattern\ReposityPattern.Core\bin\Debug\net6.0\RepositoryPattern.Core.pdb
+D:\BookStoreWithReposityPattern\ReposityPattern.Core\obj\Debug\net6.0\RepositoryPattern.Core.csproj.AssemblyReference.cache
+D:\BookStoreWithReposityPattern\ReposityPattern.Core\obj\Debug\net6.0\RepositoryPattern.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookStoreWithReposityPattern\ReposityPattern.Core\obj\Debug\net6.0\RepositoryPattern.Core.AssemblyInfoInputs.cache
+D:\BookStoreWithReposityPattern\ReposityPattern.Core\obj\Debug\net6.0\RepositoryPattern.Core.AssemblyInfo.cs
+D:\BookStoreWithReposityPattern\ReposityPattern.Core\obj\Debug\net6.0\RepositoryPattern.Core.csproj.CoreCompileInputs.cache
+D:\BookStoreWithReposityPattern\ReposityPattern.Core\obj\Debug\net6.0\RepositoryPattern.Core.dll
+D:\BookStoreWithReposityPattern\ReposityPattern.Core\obj\Debug\net6.0\refint\RepositoryPattern.Core.dll
+D:\BookStoreWithReposityPattern\ReposityPattern.Core\obj\Debug\net6.0\RepositoryPattern.Core.pdb
+D:\BookStoreWithReposityPattern\ReposityPattern.Core\obj\Debug\net6.0\ref\RepositoryPattern.Core.dll
