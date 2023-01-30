@@ -43,6 +43,8 @@ namespace BookStoreWithRepositoryPattern.Api
             {
                 var user = new ApplicationUser()
                 {
+                    FirstName = model.FirstName,
+                    LastName = model.LastName,
                     UserName = model.UserName,
                     Email = model.Email
                 };

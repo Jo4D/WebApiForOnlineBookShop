@@ -38,7 +38,7 @@ builder.Services.AddAuthentication(options =>
     options.RequireHttpsMetadata = false;
     options.TokenValidationParameters = new TokenValidationParameters()
     {
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes("sfaA1234@#")),
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes("IOLJYHSDSIoleJHsdsdsas98WeWsdsdQweweHgsgdf_&6#2")),
         ValidateIssuer = false,
         ValidateAudience = false,
         SaveSigninToken = true

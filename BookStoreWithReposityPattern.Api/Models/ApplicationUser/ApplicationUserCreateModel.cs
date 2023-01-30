@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace BookStoreWithRepositoryPattern.Api
 {
@@ -28,7 +29,7 @@ namespace BookStoreWithRepositoryPattern.Api
         [Display(Name ="Confirm Password"),DataType(DataType.Password)]
         [Compare("Password")]
         public string ConfirmPassword { get; set; }
-        
+        [DefaultValue("Admin")]
         public string Role { set; get; }
     }
 }
